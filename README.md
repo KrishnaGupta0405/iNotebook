@@ -14,7 +14,8 @@ Note* [`npm run both`]-> "both": "concurrently \"npm run start\" \"nodemon backe
 
 ### Screenshot of the project
 
-!(img1)[img1.png]
+![img1](img1.png)
+
 
 Please Note that the project uses babel compiler for, hence it will take huge!!! time to load
 
